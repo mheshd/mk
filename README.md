@@ -1,4 +1,4 @@
 # mk
 this is text repository
 <br>
-Auhtor mahesh karki
+Auhtor = mahesh karki
